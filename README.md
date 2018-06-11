@@ -1,14 +1,12 @@
 # Wprowadzenie do psychologii społecznej - materiały dydaktyczne
-W tym miejscu znajdziesz materiały dydaktyczne do przedmiotu *Wprowadzenie do psychologii społecznej*. Strona ta jest winietką repozytorium, które znajdziesz pod adresem <https://github.com/k-basinski/wdps>. 
+W tym miejscu znajdziesz materiały dydaktyczne do przedmiotu *Wprowadzenie do psychologii społecznej*. Strona ta jest winietką repozytorium, które znajdziesz pod adresem <https://github.com/k-basinski/wdps>.
 
 ## Aktualności
 
-Osoby, które nie zaliczyły bądź nie pisały któregoś z kolokwiów będą miały szansę napisać na zajęciach 22.05, od godz. 8.15 (B1 s.111).
-
-Egzamin zerowy odbędzie się 30.05 o godzinie 9.00 w sali Wszelakiego na terenie UCK (jeśli nie wiecie gdzie to jest, zarezerwujcie sobie chwilę na szukanie!).
+**Egzamin** ze Wstępu do psychologii społecznej odbędzie się w piątek, 15.06.2018 roku o godzinie 11.30 w budynku Tuwima 15, w sali 5.
 
 ### Korzystanie z materiałów
-Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zdaża mi się dodawać lub usuwać jakieś fragmenty w czasie trwania kursu. Najprostszym sposobem aby zapewnić sobie aktualną wersję jest zrobienie [forka całego repozytorium](https://help.github.com/articles/fork-a-repo/). Przed skorzystaniem z materiałów warto wykonać `git pull`. 
+Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zdaża mi się dodawać lub usuwać jakieś fragmenty w czasie trwania kursu. Najprostszym sposobem aby zapewnić sobie aktualną wersję jest zrobienie [forka całego repozytorium](https://help.github.com/articles/fork-a-repo/). Przed skorzystaniem z materiałów warto wykonać `git pull`.
 
 ### Błędy
 Na pewno w wielu miejscach popełniłem jakieś błędy. Jeśli znajdziesz błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
@@ -27,4 +25,3 @@ Wykład | slajdy | pdf
 08 - Podstawy psychologii międzykulturowej | [slajdy](08-miedzykulturowa.html) | [pdf](08-miedzykulturowa_handout.pdf)
 09 - Teoria ewolucji | [slajdy](09-ewolucja.html) | pdf
 10 - Agresja i prospołeczność | [slajdy](https://github.com/k-basinski/wdps/blob/master/10-agresja.pdf)
-

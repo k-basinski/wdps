@@ -3,7 +3,7 @@ W tym miejscu znajdziesz materiały dydaktyczne do przedmiotu *Wprowadzenie do p
 
 ## Aktualności
 
-**Egzamin** ze Wstępu do psychologii społecznej odbędzie się w piątek, 15.06.2018 roku o godzinie 11.30 w budynku Tuwima 15, w sali 5.
+**Egzamin poprawkowy** ze Wstępu do psychologii społecznej odbędzie się w czwartek, 6.09.2018 roku o godzinie 10:00 w budynku przy ul. Tuwima 15, w sali 5.
 
 ### Korzystanie z materiałów
 Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zdaża mi się dodawać lub usuwać jakieś fragmenty w czasie trwania kursu. Najprostszym sposobem aby zapewnić sobie aktualną wersję jest zrobienie [forka całego repozytorium](https://help.github.com/articles/fork-a-repo/). Przed skorzystaniem z materiałów warto wykonać `git pull`.
